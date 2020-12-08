@@ -1,69 +1,82 @@
 .heading {
-        font-size: 4vmax;
-        color: red;
-        font-weight :700;
-      }
+  font-size: 4vmax;
+  color: red;
+  font-weight: 700;
+}
 .address {
-        font-size: 1.1vmax;
-        padding-top: 10px;
-      }
-      .logo {
-        height: 6vmax;
-        background-color: inherit;
-      }
-      .icon {
-        font-size: 4.1vmax;
-        padding-left: 25px;
-        padding-right: 25px;
-      }
-      .generator {
-        height: 25vmax;
-        width: 23vmax;
-      }
-      .right p {
-        line-height: 3vmax;
-        background-color: #b0b6d6;
-        border-left: solid 5px red;
-        margin-left: 2vw;
-        padding-left: 1vw;
-        border-bottom-right-radius: 50px;
-        border-top-right-radius: 50px;
-        font-size: 2.5vw;  
-      }
-      .social li {
-        display: inline-block;
-        text-align: center;
-      }
-      .social a span {
-        display: block;
-      }
-      .social a:hover i.fa-facebook-square {
-        color: #0026ff;
-      }
-      .social a:hover i.fa-twitter {
-        color: #00abe3;
-      }
-      .social a:hover i.fa-instagram {
-        color: #ffd400;
-      }
-      .social a:hover i.fa-pinterest {
-        color: #ff0000;
-      }
-      .social a:hover i.fa-google-plus {
-        color: #cb2027;
-      }
-      .social a:hover i.fa-flickr {
-        color: #ff57ae;
-      }
-      .social a:hover i.fa-500px {
-        color: #00abe3;
-      }
-      .social a:hover i.fa-whatsapp {
-        color: green;
-      }
-      .social a:hover i.fa-envelope {
-        color: rgb(168, 35, 35);
-      }
-      .social a:hover i.fa-map-marker {
-        color: black;
-      }
+  font-size: 1.1vmax;
+  padding-top: 10px;
+}
+.logo {
+  height: 6vmax;
+  background-color: inherit;
+}
+.icon {
+  font-size: 4.1vmax;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.generator {
+  height: 25vmax;
+  width: 23vmax;
+}
+.right p {
+  line-height: 3vmax;
+  background-color: #b0b6d6;
+  border-left: solid 5px red;
+  margin-left: 2vw;
+  padding-left: 1vw;
+  border-bottom-right-radius: 50px;
+  border-top-right-radius: 50px;
+  font-size: 2.5vw;
+}
+.social li {
+  display: inline-block;
+  text-align: center;
+}
+.social a span {
+  display: block;
+}
+.social a:hover i.fa-facebook-square {
+  color: #0026ff;
+}
+.social a:hover i.fa-twitter {
+  color: #00abe3;
+}
+.social a:hover i.fa-instagram {
+  color: #ffd400;
+}
+.social a:hover i.fa-pinterest {
+  color: #ff0000;
+}
+.social a:hover i.fa-google-plus {
+  color: #cb2027;
+}
+.social a:hover i.fa-flickr {
+  color: #ff57ae;
+}
+.social a:hover i.fa-500px {
+  color: #00abe3;
+}
+.social a:hover i.fa-whatsapp {
+  color: green;
+}
+.social a:hover i.fa-envelope {
+  color: rgb(168, 35, 35);
+}
+.social a:hover i.fa-map-marker {
+  color: black;
+}
+.best {
+  width: 100%;
+  padding-top: 4vh;
+  text-align: center;
+}
+.best li {
+  display: inline-block;
+  font-size: 1.5vmax;
+  padding-left: 5vw;
+}
+.head2 {
+  font-size: 2vmax;
+}
